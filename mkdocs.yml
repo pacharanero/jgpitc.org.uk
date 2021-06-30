@@ -1,0 +1,6 @@
+site_name: Joint GP IT Committee
+theme:
+  name: material
+  logo: assets/logo.png
+  features:
+  - navigation.instant
